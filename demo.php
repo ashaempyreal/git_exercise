@@ -1,5 +1,5 @@
 <?php
 
-    echo ("Main Branch welcome");
+    echo ("<h1>Main Branch</h1>");
 
 ?>
